@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ramakrishnan-21
-- 👀 I’m interested in Web Development and deep learning
+- 👀 I’m interested in Web Development and Deep learning
 - 📫 How to reach me lambhorgini80@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramakrishnan-21
+- 👋 Hi, I’m Ramakrishnan
 - 👀 I’m interested in Web Development and Deep learning
 - 📫 How to reach me lambhorgini80@gmail.com
 
